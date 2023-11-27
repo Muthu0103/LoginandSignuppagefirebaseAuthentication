@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270792565416",
+    "project_id": "lslsls-173c1",
+    "storage_bucket": "lslsls-173c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270792565416:android:36105f05e37ceac47a189d",
+        "android_client_info": {
+          "package_name": "com.example.lslsls"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_n1cG2Bd1niE7M92qnTULXGB58WOZwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
